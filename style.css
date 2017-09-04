@@ -1,0 +1,25 @@
+#searchBar {
+  margin: 15px 10px;
+}
+
+head{
+	
+	font-weight:400;
+	color: #7985ED
+}
+
+table{
+	background: #EDF2FF;
+}
+
+
+body{
+	color:blue;
+	font-family: helvetica;
+	background: orange;
+}
+
+.tableWrapper {
+  max-height: 400px;
+  overflow: auto;
+}
